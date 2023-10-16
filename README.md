@@ -8,4 +8,18 @@ Dans ce repo vous allez trouver les solutions des exercices suivants:
 - `gestion_de_etat_civil`: le travail a faire 
 
 
-"# HiberTP" 
+## Screenshots
+
+###  Exercice 2: Gestion de stock
+
+![Gestion de Stock](./screen/gestion_de_stock.png)
+
+
+###  Exercice 3: Gestion de projet
+
+![Gestion de Projet](./screen/gestion_de_projet.png)
+
+
+###  Travail a faire: Gestion de etat civil
+
+![Gestion de Etat Civil](./screen/gestion_de_etat_civil.png)"# HibernateTp" 
